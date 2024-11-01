@@ -4,5 +4,3 @@ Features:
 
 Rocketship Control: Use arrow keys to navigate the rocketship on the screen.
 Wand Shooting: Press the spacebar to shoot wands from the rocketship.
-Target Interaction: Wands disappear when they hit a target.
-This project demonstrates foundational programming concepts using Scratch's block-based interface. It’s a great starting point for building interactive games with animations and simple controls.
